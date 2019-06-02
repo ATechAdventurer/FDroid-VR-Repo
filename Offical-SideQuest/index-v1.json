@@ -2,10 +2,10 @@
   "repo": {
     "timestamp": 1502257810365,
     "version": 21,
-    "name": "NSFW",
-    "icon": "vrnsfw.png",
-    "address": "http://showmewhatyougot.x10host.com/nsfw/",
-    "description": "Some not safe for work content, wink wink ;)"
+    "name": "VR Games",
+    "icon": "vrgames.png",
+    "address": "https://ATechAdventurer.gihtub.io/FDroid-VR-Repo/Offical-SideQuest/",
+    "description": "Some great VR games! Launch these from the unknown sources list for now."
   },
   "requests": {
     "install": [],
@@ -15,60 +15,104 @@
     {
       "antiFeatures": [],
       "categories": [
-        "VR Porn"
+        "Social VR"
       ],
-      "suggestedVersionName": "8.1.0",
+      "suggestedVersionName": "0.1.18",
       "suggestedVersionCode": "282",
-      "description": "The SLR app is a revolutionary new VR sex app that allows you to stream the hottest VR porn right to your VR headset. Fully compatible with GearVR, Oculus Rift, Oculus Go, HTC Vive, Cardboard, Daydream and Windows MR, our VR porn streaming app makes choosing, watching, and enjoying your favorite movies as easy as clicking a video on YouTube (if you own a PlayStation VR, check out our PSVR porn tutorial). Simply log in, choose the video you want to interact with then kick back and enjoy. The app does all the leg work so you can focus on enjoying the show. No matter what hardware you have, this virtual reality porn app is sure to make your life significantly easier. The SLR app gathers up the hottest videos from the biggest, best studios and brings them right to you. 24 free full-length VR porn downloads inside as well!",
-      "issueTracker": "https://www.reddit.com/r/OculusGo/comments/8ptett/slr_app_for_oculus_go_beta/",
-      "license": "COMMERCIAL",
-      "name": "SLR (Go)",
+      "description": "We aim to expose as much possibilities as safely possible to be able to create experiences. There are guidelines to help created content to be accessible on as many platforms as possible with mobile and performance the main driver. Great content will be featured in the menu to be visited at the click of a button",
+      "issueTracker": "https://theexpanse.app/support/",
+      "license": "FREE",
+      "name": "The Expanse",
       "sourceCode": "",
-      "summary": "Tired of downloading VR porn videos? ",
-      "webSite": "https://www.sexlikereal.com/app",
+      "summary": "The Expanse is a cross platform social vr app that will be available on all major headsets and 2d Mode for PC. ",
+      "webSite": "https://theexpanse.app",
       "added": 1502257684722,
-      "icon": "slr.png",
-      "packageName": "com.slr.oculus.go",
+      "icon": "expanse.jpg",
+      "packageName": "app.theexpanse.app",
       "lastUpdated": 1502257746030
     },
     {
       "antiFeatures": [],
       "categories": [
-        "VR Porn"
+        "Social VR"
       ],
-      "suggestedVersionName": "8.1.0",
+      "suggestedVersionName": "0.0.1",
       "suggestedVersionCode": "282",
-      "description": "The SLR app is a revolutionary new VR sex app that allows you to stream the hottest VR porn right to your VR headset. Fully compatible with GearVR, Oculus Rift, Oculus Go, HTC Vive, Cardboard, Daydream and Windows MR, our VR porn streaming app makes choosing, watching, and enjoying your favorite movies as easy as clicking a video on YouTube (if you own a PlayStation VR, check out our PSVR porn tutorial). Simply log in, choose the video you want to interact with then kick back and enjoy. The app does all the leg work so you can focus on enjoying the show. No matter what hardware you have, this virtual reality porn app is sure to make your life significantly easier. The SLR app gathers up the hottest videos from the biggest, best studios and brings them right to you. 24 free full-length VR porn downloads inside as well!",
-      "issueTracker": "https://www.reddit.com/r/OculusGo/comments/8ptett/slr_app_for_oculus_go_beta/",
-      "license": "COMMERCIAL",
-      "name": "SLR (Quest)",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "AltspaceVR",
       "sourceCode": "",
-      "summary": "Tired of downloading VR porn videos? ",
-      "webSite": "https://www.sexlikereal.com/app",
+      "summary": "Meet people from around the world, attend free live events, and play interactive games with friends. Day or night, there’s always someone to hang out with. ",
+      "webSite": "https://altvr.com",
       "added": 1502257684722,
-      "icon": "slr.png",
-      "packageName": "com.slr.oculus.quest",
+      "icon": "AltspaceVR-Women-In-VR-Meet-up.png",
+      "packageName": "com.altvr.AltspaceVR_Client",
       "lastUpdated": 1502257746030
-    }
+    },
+{
+  "antiFeatures": [],
+  "categories": [
+    "Games",
+    "Sports"
+  ],
+  "suggestedVersionName": "1.13.00",
+  "suggestedVersionCode": "113",
+  "description": "Experience hockey in VR like you've never seen it before! Full-speed, 100% skill-based hockey. Play in cross-region multiplayer using single and dual-hand stick control, haptics, and more!",
+  "issueTracker": "http://www.electricfalcon.net/discord",
+  "license": "FREE",
+  "name": "Pick-up League Hockey",
+  "sourceCode": "",
+  "summary": "Pick-up League Hockey is a 3 vs 3 player multiplayer hockey simulator with realistic skating physics and a full size rink.",
+  "webSite": "http://www.electricfalcon.net/pickuphockey/",
+  "added": 1559229168000,
+  "icon": "logo-bg2.jpg",
+  "packageName": "net.electricfalcon.pickuphockeyvr",
+  "lastUpdated": 1559229168000
+}
   ],
   "packages": {
-    "com.slr.oculus.quest": [
-      {
-        "added": 1502257678527,
-        "apkName": "https://xactaccounts.co.uk/com.slr.oculus.quest.apk",
+"net.electricfalcon.pickuphockeyvr": [
+    {
+        "added": 1559229168000,
+        "apkName": "http://www.electricfalcon.net/quest/pulh-latest.apk",
         "hash": "",
         "hashType": "sha256",
         "minSdkVersion": "16",
         "nativecode": [
           "armeabi-v7a"
         ],
-        "packageName": "com.slr.oculus.quest",
+        "packageName": "net.electricfalcon.pickuphockeyvr",
+        "sig": "",
+        "size": 55156885,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 113,
+        "versionName": "1.13.00",
+        "uses-permission":[
+          [
+            "Microphone"
+          ]
+        ]
+    }
+],
+    "com.altvr.AltspaceVR_Client": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://cdn.glitch.com/a78f75d0-8b19-4d3a-9d1e-d54acadb325f%2FAltspaceVR-3.1.24.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.altvr.AltspaceVR_Client",
         "sig": "",
         "size": 1302807,
         "srcname": "",
         "targetSdkVersion": "22",
         "versionCode": 2,
-        "versionName": "8.1.0",
+        "versionName": "0.1.18",
         "uses-permission":[
           [
             "No permissions Listed...",
@@ -77,23 +121,23 @@
         ]
       }
     ],
-    "com.slr.oculus.go": [
+    "app.theexpanse.app": [
       {
         "added": 1502257678527,
-        "apkName": "https://xactaccounts.co.uk/com.slr.oculus.go.apk",
+        "apkName": "https://cdn.theexpanse.app/TheExpanse.apk",
         "hash": "",
         "hashType": "sha256",
         "minSdkVersion": "16",
         "nativecode": [
           "armeabi-v7a"
         ],
-        "packageName": "com.slr.oculus.go",
+        "packageName": "app.theexpanse.app",
         "sig": "",
         "size": 1302807,
         "srcname": "",
         "targetSdkVersion": "22",
         "versionCode": 2,
-        "versionName": "8.1.0",
+        "versionName": "0.1.18",
         "uses-permission":[
           [
             "No permissions Listed...",
